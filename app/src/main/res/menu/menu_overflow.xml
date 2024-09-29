@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/itmPedidos"
+        android:title="@string/pedidos" />
+    <item
+        android:id="@+id/itmProductos"
+        android:title="@string/productos" />
+    <item
+        android:id="@+id/itmMisPedidos"
+        android:title="@string/misPedidos" />
+    <item
+        android:id="@+id/itmNosotros"
+        android:title="@string/nosotros" />
+    <item
+        android:id="@+id/itmCerrar"
+        android:title="@string/cerrar" />
+</menu>

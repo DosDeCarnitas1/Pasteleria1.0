@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">Pasteleria1.0</string>
+
+    <!-- Activity de ingreso -->
+    <string name="correo">Correo electrónico</string>
+    <string name="contraseña">Contraseña</string>
+    <string name="guardar">Guardar datos</string>
+    <string name="ingresar">Ingresar</string>
+    <string name="borrar">Limpiar</string>
+
+    <!-- opciones del menú -->
+    <string name="pedidos">Pedido</string>
+    <string name="productos">Productos</string>
+    <string name="misPedidos">Mis pedidos</string>
+    <string name="nosotros">Nosotros</string>
+    <string name="cerrar">Cerrar sesión</string>
+
+    <!-- Opciones del spinner -->
+    <string-array name="productos">
+        <item>Pastel de chocolate</item>
+        <item>Pastel de fresa</item>
+        <item>Pastel de café</item>
+        <item>Pastel de napolitano</item>
+        <item>Pastel de tres leches</item>
+    </string-array>
+
+    <!-- Activity de formulario -->
+    <string name="nombre">Nombre(s)</string>
+    <string name="domicilio">Domicilio</string>
+    <string name="telefono">Teléfono</string>
+    <string name="registrar">Registrar</string>
+    <string name="cancelar">Cancelar</string>
+
+    <!-- Activity de consulta -->
+    <string name="info">Información del pedido:</string>
+</resources>
